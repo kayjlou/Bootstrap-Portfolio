@@ -2,5 +2,5 @@
 Draft of portfolio using Bootstrap 
 
 
-Link to deployed 
+## Deployed Link 
 https://kayjlou.github.io/Bootstrap-Portfolio/
