@@ -1,4 +1,5 @@
-# Bootstrap-Portfolio
+# Bootstrap Portfolio
+Draft of portfolio using Bootstrap 
 
 
 Link to deployed 
